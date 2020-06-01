@@ -1,2 +1,2 @@
 # openEye
-Knowledge base construction system based dedicated to images
+Knowledge base construction system dedicated to images
